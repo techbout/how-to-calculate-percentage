@@ -1,6 +1,6 @@
 # How to calculate percentage
 
-[![how to calculate percentage](redd.png)](https://computersolve.com/how-to-calculate-percentage/)
+[![how to calculate percentage](redd.png)](https://icncomputer.com/how-to-calculate-percentage/)
 
 Knowing how to calculate percent or percentage is a useful skill in everyday life. You’ll use percentages to calculate grades, tips, taxes, chance of rain, and car payments. In science, percent finds use in percent error and mass percent calculations. Here is a step-by-step tutorial showing how to find percent and examples of practical applications.
 
